@@ -1,1 +1,1 @@
-# quant
+This is a python quant project
