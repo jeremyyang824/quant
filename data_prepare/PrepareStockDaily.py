@@ -49,6 +49,23 @@ def get_years_daily_market(ts_code, year_start, year_end):
             row["vol"],
             row["amount"])
 
+@tushare()
+def get_years_daily_market_index(ts_code, year_start, year_end):
+    start = "%04d0101" % year_start
+    end = "%04d1231" % year_end
+    df = ts.pro_api().index_daily(ts_code=ts_code, start_date=start, end_date=end)
+    for idx, row in df.iterrows():
+        yield StockDaily(
+            row["ts_code"],
+            format_tushare_date(row["trade_date"]),
+            row["open"],
+            row["high"],
+            row["low"],
+            row["close"],
+            row["pre_close"],
+            row["vol"],
+            row["amount"])
+
 
 class StockDaily:
 
@@ -101,4 +118,8 @@ class StockDailyRepository(BaseRepository):
 
 
 if __name__ == '__main__':
-    prepare_stock_daily()
+    #prepare_stock_daily()
+
+    index_markets_result = list(get_years_daily_market_index('399300.SZ', 2005, 2019))
+    #stock_daily_repo = StockDailyRepository(config)
+    #stock_daily_repo.insert(index_markets_result)
