@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c2af7ef-afd2-46aa-8d63-002f9cee38a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_prepare/PrepareStockDaily.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_prepare/PrepareStockDaily.py" afterDir="false" />
-    </list>
+    <list default="true" id="0c2af7ef-afd2-46aa-8d63-002f9cee38a4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_prepare/PrepareStockDaily.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
+            <state relative-caret-position="2108">
               <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
               <folding>
                 <element signature="e#25#63#0" expanded="true" />
@@ -413,12 +410,12 @@
       <workItem from="1562496136613" duration="2657000" />
       <workItem from="1562501958097" duration="22000" />
       <workItem from="1563714369477" duration="53000" />
-      <workItem from="1565100960756" duration="2501000" />
+      <workItem from="1565100960756" duration="2570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31074000" />
+    <option name="totallyTimeSpent" value="31143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -802,7 +799,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_prepare/PrepareStockDaily.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
+        <state relative-caret-position="2108">
           <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
           <folding>
             <element signature="e#25#63#0" expanded="true" />
