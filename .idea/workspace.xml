@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c2af7ef-afd2-46aa-8d63-002f9cee38a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back_testing/Backtester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back_testing/MarketData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back_testing/Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back_testing/Position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back_testing/Strategy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back_testing/TickData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back_testing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quant_stragegy/MeanRevertingStrategy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop_back/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop_back/backtest" beforeDir="false" />
-    </list>
+    <list default="true" id="0c2af7ef-afd2-46aa-8d63-002f9cee38a4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +48,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back_testing/Backtester.py">
+        <entry file="file://$PROJECT_DIR$/quant_stragegy/MeanRevertingStrategy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="647">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
               <folding>
                 <element signature="e#25#46#0" expanded="true" />
               </folding>
@@ -72,40 +60,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quant_stragegy/MeanRevertingStrategy.py">
+        <entry file="file://$PROJECT_DIR$/data_prepare/PrepareStockDaily.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="79" column="24" selection-start-line="78" selection-start-column="6" selection-end-line="79" selection-end-column="24" />
+            <state relative-caret-position="2108">
+              <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
               <folding>
-                <element signature="e#25#46#0" expanded="true" />
+                <element signature="e#25#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back_testing/TickData.py">
+        <entry file="file://$PROJECT_DIR$/sample_data/fund_index.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample_data/stock_daily.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back_testing/MarketData.py">
+        <entry file="file://$PROJECT_DIR$/data_prepare/BaseRepository.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="106">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <element signature="e#26#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back_testing/Order.py">
+        <entry file="file://$PROJECT_DIR$/data_prepare/PrepareFundIndex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
+            <state relative-caret-position="443">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -153,6 +149,7 @@
     <findStrings>
       <find>tusha</find>
       <find>idea</find>
+      <find>adj</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -176,7 +173,6 @@
         <option value="$PROJECT_DIR$/quant_stragegy/__init__.py" />
         <option value="$PROJECT_DIR$/data_prepare/__init__.py" />
         <option value="$PROJECT_DIR$/data_prepare/PrepareFundIndex.py" />
-        <option value="$PROJECT_DIR$/data_prepare/PrepareStockDaily.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/back_testing/__init__.py" />
@@ -188,6 +184,8 @@
         <option value="$PROJECT_DIR$/back_testing/MarketData.py" />
         <option value="$PROJECT_DIR$/back_testing/Strategy.py" />
         <option value="$PROJECT_DIR$/quant_stragegy/MeanRevertingStrategy.py" />
+        <option value="$PROJECT_DIR$/sample_data/index_daily.csv" />
+        <option value="$PROJECT_DIR$/data_prepare/PrepareStockDaily.py" />
       </list>
     </option>
   </component>
@@ -203,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +242,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="quant" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="quant" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -264,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MeanRevertingStrategy">
+  <component name="RunManager" selected="Python.PrepareStockDaily">
     <configuration name="AppConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="quant" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -377,8 +383,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MeanRevertingStrategy" />
         <item itemvalue="Python.PrepareStockDaily" />
+        <item itemvalue="Python.MeanRevertingStrategy" />
         <item itemvalue="Python.DownloadIndexFund" />
         <item itemvalue="Python.utils" />
         <item itemvalue="Python.AppConfig" />
@@ -403,22 +409,24 @@
       <workItem from="1562077878874" duration="113000" />
       <workItem from="1562496136613" duration="2657000" />
       <workItem from="1562501958097" duration="22000" />
+      <workItem from="1563714369477" duration="53000" />
+      <workItem from="1565100960756" duration="2570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28520000" />
+    <option name="totallyTimeSpent" value="31143000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="52" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21316166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21888413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.43603852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.43493977" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,8 +452,8 @@
     <SUITE FILE_PATH="coverage/quant$utils.coverage" NAME="utils Coverage Results" MODIFIED="1561286907692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_prepare" />
     <SUITE FILE_PATH="coverage/quant$DownloadIndexFund.coverage" NAME="DownloadIndexFund Coverage Results" MODIFIED="1561299564053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_prepare" />
     <SUITE FILE_PATH="coverage/quant$AppConfig.coverage" NAME="AppConfig Coverage Results" MODIFIED="1561212187297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/quant$PrepareStockDaily.coverage" NAME="PrepareStockDaily Coverage Results" MODIFIED="1561300940808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_prepare" />
-    <SUITE FILE_PATH="coverage/quant$MeanRevertingStrategy.coverage" NAME="MeanRevertingStrategy Coverage Results" MODIFIED="1562501970219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quant_stragegy" />
+    <SUITE FILE_PATH="coverage/quant$MeanRevertingStrategy.coverage" NAME="MeanRevertingStrategy Coverage Results" MODIFIED="1565101143415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quant_stragegy" />
+    <SUITE FILE_PATH="coverage/quant$PrepareStockDaily.coverage" NAME="PrepareStockDaily Coverage Results" MODIFIED="1565103278939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_prepare" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -549,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1642851193/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-553">
-          <caret line="837" column="6" selection-start-line="837" selection-start-column="6" selection-end-line="837" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dependency.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3179">
@@ -577,27 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/quant/lib/python3.7/site-packages/tushare/pro/data_pro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.conda/envs/quant/lib/python3.7/site-packages/pymysql/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-80">
           <caret line="150" column="33" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_prepare/BaseRepository.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#26#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,40 +623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_prepare/PrepareStockDaily.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#25#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_prepare/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loop_back/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_prepare/PrepareFundIndex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="917">
-          <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/loop_back/__init__.py" />
     <entry file="file://$PROJECT_DIR$/back_testing/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -694,13 +645,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop_back/backtest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="316" lean-forward="true" selection-start-line="242" selection-end-line="316" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/loop_back/backtest" />
     <entry file="file://$USER_HOME$/.conda/envs/quant/lib/python3.7/site-packages/pandas/core/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -770,12 +715,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1642851193/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="565" column="4" selection-start-line="565" selection-start-column="4" selection-end-line="565" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/quant/lib/python3.7/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_prepare/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_prepare/PrepareFundIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/quant/lib/python3.7/site-packages/tushare/pro/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/quant/lib/python3.7/site-packages/tushare/pro/data_pro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="114" column="100" lean-forward="true" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_prepare/BaseRepository.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quant_stragegy/MeanRevertingStrategy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="24" selection-start-line="78" selection-start-column="6" selection-end-line="79" selection-end-column="24" />
+        <state relative-caret-position="647">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
           <folding>
             <element signature="e#25#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_data/fund_index.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_data/stock_daily.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_data/index_daily.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_prepare/PrepareStockDaily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+          <folding>
+            <element signature="e#25#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
